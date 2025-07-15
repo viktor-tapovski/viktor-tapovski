@@ -1,5 +1,6 @@
-### Hello World 👋🌎
-I am a senior frontend developer. Currently working on few Angular projects
+### Hi there! 👋
+I specialize in turning complex challenges into elegant, scalable solutions. Passionate about clean architecture, performance optimization, and building future-proof applications.
+Always learning, always building. Open to collaborating on meaningful projects.
 <br />
 <br />
 ## Connect with me
