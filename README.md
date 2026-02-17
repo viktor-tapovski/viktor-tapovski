@@ -13,6 +13,8 @@ Always learning, always building. Open to collaborating on meaningful projects.
 <img align="left" alt="nextjs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" />
-<img align="left" alt="html" src="https://img.shields.io/badge/Preact-673AB8?logo=preact&logoColor=fff&style=for-the-badge" />
+<img align="left" alt="preact" src="https://img.shields.io/badge/Preact-673AB8?logo=preact&logoColor=fff&style=for-the-badge" />
+<img align="left" alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" />
+<img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
 <br />
 <br />
